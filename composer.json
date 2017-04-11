@@ -1,0 +1,24 @@
+{
+    "name": "goodwong/laravel-log-viewer",
+    "description": "通过web界面查看管理日志文件，提升开发效率",
+    "type": "utils",
+    "authors": [
+        {
+            "name": "william",
+            "email": "goodwong@foxmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "rap2hpoutre/laravel-log-viewer": "^0.8.1"
+    },
+    "autoload": {
+        "classmap": [
+            "src/controllers"
+        ],
+        "psr-0": {
+            "Goodwong\\LaravelLogViewer\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
