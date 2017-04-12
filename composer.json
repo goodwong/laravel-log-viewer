@@ -14,9 +14,8 @@
     },
     "autoload": {
         "classmap": [
-            "src/controllers"
         ],
-        "psr-0": {
+        "psr-4": {
             "Goodwong\\LaravelLogViewer\\": "src/"
         }
     },
