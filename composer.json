@@ -1,7 +1,7 @@
 {
     "name": "goodwong/laravel-log-viewer",
     "description": "通过web界面查看管理日志文件，提升开发效率",
-    "type": "utils",
+    "type": "library",
     "authors": [
         {
             "name": "william",
