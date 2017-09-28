@@ -20,5 +20,12 @@
         }
     },
     "minimum-stability": "stable",
-    "license": "MIT"
+    "license": "MIT",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Goodwong\\LaravelLogViewer\\LogViewerServiceProvider"
+            ]
+        }
+    }
 }
