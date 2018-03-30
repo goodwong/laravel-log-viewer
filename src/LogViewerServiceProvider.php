@@ -1,6 +1,6 @@
 <?php
 
-namespace Goodwong\LaravelLogViewer;
+namespace Goodwong\LogViewer;
 
 use DB;
 use Log;

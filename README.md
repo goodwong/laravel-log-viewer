@@ -29,7 +29,7 @@ if (config('app.env') == 'local') {
 
 4. 打开config/app.php，在providers数组里注册服务：
     ```php
-    Goodwong\LaravelLogViewer\LogViewerServiceProvider::class,
+    Goodwong\LogViewer\LogViewerServiceProvider::class,
     ```
 
 

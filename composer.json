@@ -16,7 +16,7 @@
         "classmap": [
         ],
         "psr-4": {
-            "Goodwong\\LaravelLogViewer\\": "src/"
+            "Goodwong\\LogViewer\\": "src/"
         }
     },
     "minimum-stability": "stable",
@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Goodwong\\LaravelLogViewer\\LogViewerServiceProvider"
+                "Goodwong\\LogViewer\\LogViewerServiceProvider"
             ]
         }
     }
